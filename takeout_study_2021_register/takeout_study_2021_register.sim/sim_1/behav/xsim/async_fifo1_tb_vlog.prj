@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../takeout_study_2021_register.srcs/sources_1/new/dual_clock_async_fifo.v" \
+"../../../../takeout_study_2021_register.srcs/sim_1/new/async_fifo1_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

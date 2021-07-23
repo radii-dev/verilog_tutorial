@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Sat Jul 25 19:04:42 2020
+# Process ID: 30060
+# Current directory: D:/__verilog/learning/TakeOut_study/TakeOut_study.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/__verilog/learning/TakeOut_study/TakeOut_study.sim/sim_1/behav/xsim/xsim.dir/AND_GATE_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/__verilog/learning/TakeOut_study/TakeOut_study.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/__verilog/learning/TakeOut_study/TakeOut_study.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/__verilog/learning/TakeOut_study/TakeOut_study.sim/sim_1/behav/xsim/xsim.dir/AND_GATE_behav/webtalk/xsim_webtalk.tcl -notrace

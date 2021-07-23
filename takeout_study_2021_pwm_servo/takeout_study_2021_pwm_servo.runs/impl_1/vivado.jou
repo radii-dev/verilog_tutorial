@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Wed May 26 21:52:01 2021
+# Process ID: 32628
+# Current directory: D:/__verilog/learning/takeout_study_2021_pwm_servo/takeout_study_2021_pwm_servo.runs/impl_1
+# Command line: vivado.exe -log test1hz.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source test1hz.tcl -notrace
+# Log file: D:/__verilog/learning/takeout_study_2021_pwm_servo/takeout_study_2021_pwm_servo.runs/impl_1/test1hz.vdi
+# Journal file: D:/__verilog/learning/takeout_study_2021_pwm_servo/takeout_study_2021_pwm_servo.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source test1hz.tcl -notrace

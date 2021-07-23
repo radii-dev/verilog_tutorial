@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Wed May  5 15:40:05 2021
+# Process ID: 36836
+# Current directory: D:/__verilog/learning/takeout_study_2021_counter/takeout_study_2021_counter.runs/impl_1
+# Command line: vivado.exe -log BOARD_RING.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source BOARD_RING.tcl -notrace
+# Log file: D:/__verilog/learning/takeout_study_2021_counter/takeout_study_2021_counter.runs/impl_1/BOARD_RING.vdi
+# Journal file: D:/__verilog/learning/takeout_study_2021_counter/takeout_study_2021_counter.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source BOARD_RING.tcl -notrace

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Sat Jul 25 19:23:48 2020
+# Process ID: 14592
+# Current directory: D:/__verilog/learning/TakeOut_study/TakeOut_study.runs/impl_1
+# Command line: vivado.exe -log s7_AND.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source s7_AND.tcl -notrace
+# Log file: D:/__verilog/learning/TakeOut_study/TakeOut_study.runs/impl_1/s7_AND.vdi
+# Journal file: D:/__verilog/learning/TakeOut_study/TakeOut_study.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source s7_AND.tcl -notrace
